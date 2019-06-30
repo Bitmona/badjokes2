@@ -28,7 +28,7 @@ const listener = app.listen(process.env.PORT, function() {
 app.post('/', function(request, response) {
   console.log(request.body)
   response.send('thanks');  
-fs.appendFileSync('message.txt', `${new Date()} laughs: ${request.body.laughs}\n`);
+fs.appendFileSync('https://www.badjokes.zon/message.txt', `${new Date()} laughs: ${request.body.laughs}\n`);
 });
 
 function checkHttps(req, res, next){
