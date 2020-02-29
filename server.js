@@ -28,7 +28,12 @@ const listener = app.listen(process.env.PORT, function() {
 app.post('/', function(request, response) {
   console.log(request.body)
   response.send('thanks');  
-fs.appendFileSync('https://www.badjokes.zone/message.txt', `${new Date()} laughs: ${request.body.laughs}\n`);
+// fs.appendFileSync('https://www.badjokes.zone/message.txt', `${new Date()} laughs: ${request.body.laughs}\n`);
+fs.writeFile('message.txt', `${new Date()} laughs: ${request.body.laughs}\n`, (err) => { 
+      
+  // In case of a error throw err. 
+  if (err) throw err; 
+}) 
 });
 
 function checkHttps(req, res, next){
@@ -42,5 +47,8 @@ function checkHttps(req, res, next){
 }
 
 app.all('*', checkHttps);
+
+
+
 
 
