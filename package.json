@@ -15,7 +15,8 @@
     "fly": "^3.3.7",
     "lodash": "^4.17.15",
     "php-express": "0.0.3",
-    "php-parser": "^2.2.0"
+    "php-parser": "^2.2.0",
+    "uniq": "^1.0.1"
   },
   "engines": {
     "node": "8.x"
