@@ -40,20 +40,16 @@
       background-color: #333;
     }
     
-    .ch {
-      float: left;
-    }
-    
     .ch a {
       display: block;
       color: white;
-      text-align: center;
-      padding: 14px 16px;
+      padding: 8px 16px;
       text-decoration: none;
     }
     
     .ch a:hover {
-      background-color: #111;
+        background-color: #000000;
+      color: white;
     }
     .but {
      position: relative; 
@@ -67,38 +63,6 @@
   .fe {
    color: #2eff00; 
   }
-
-#myInput {
-  background-image: url('/css/searchicon.png');
-  background-position: 10px 12px;
-  background-repeat: no-repeat;
-  width: 100%;
-  font-size: 16px;
-  padding: 12px 20px 12px 40px;
-  border: 1px solid #ddd;
-  margin-bottom: 12px;
-}
-
-.fe {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-
-#myUL li {
-  border: 1px solid #ddd;
-  margin-top: -1px; /* Prevent double borders */
-  background-color: #f6f6f6;
-  padding: 12px;
-  text-decoration: none;
-  font-size: 18px;
-  color: black;
-  display: block
-}
-
-#myUL li:hover:not(.header) {
-  background-color: #eee;
-}
     embed{
  visibility: hidden;
   height: 1px;
@@ -144,3 +108,7 @@ display: inline-block;
   border-radius: 15px;
   /* box-shadow: 0 9px #639df9; */
 }
+.highlight {
+  color: yellow;
+}
+

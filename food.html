@@ -18,6 +18,7 @@
 </script> 
     <!-- import the webpage's javascript file -->
   <script src="https://www.badjokes.zone/client.js"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script> 
     <link rel="icon" href="https://cdn.glitch.com/682a9b07-9d48-42c5-ad75-81aca7fbf615%2Fhouse-icon.png?1548427103110">
 
 </head>  
@@ -40,7 +41,27 @@
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:search></gcse:search>
+<form action="" name="go" id="go"> 
+  <input name="search" id="searchbar" onkeyup="google()" type="text" placeholder="Search here...">
+  <script>
+    function google() {
+      console.clear();
+      var x = document.getElementById("fe");
+      var y = document.getElementsByTagName("li");
+     var input = document.getElementById('searchbar').value;
+    $.each($("#fe").children(), (i,v) => {if (v.innerText.indexOf(input) >= 0) {
+      console.log(v.innerText);
+      $(v).show()
+     
+      } else {
+        $(v).hide();
+      }
+    } ) 
+  
+  }
+  
+  </script>
+  </form>
     </ul>
 
     <center><h1 class="title">
@@ -50,7 +71,7 @@
       Version 3.3
       </p></center>
     <center><img class="img1" src="https://cdn.glitch.com/6ead5de6-9189-49c1-a01a-0dad1b59a17d%2Fgreen-2304008_640.png?1549937356406" alt="arrow"></center>
-      <ul class="fe">
+      <ul class="fe" id="fe">
         <li>What do you call a can opener that doesn’t work?<p class="a"> A can't opener.</p></li>
       <li>Did you hear about the Italian chef who died? <p class="a">He pasta-way.</p></li>
       <li>What do you call a fake noodle? <p class="a">An impasta.</p></li>
