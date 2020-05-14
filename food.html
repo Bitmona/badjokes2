@@ -48,18 +48,17 @@
       console.clear();
       var x = document.getElementById("fe");
       var y = document.getElementsByTagName("li");
-     var input = document.getElementById('searchbar').value;
+     var input = document.getElementById('searchbar').value.toLowerCase();
+  
     $.each($("#fe").children(), (i,v) => {if (v.innerText.indexOf(input) >= 0) {
-      console.log(v.innerText);
-      $(v).show()
-     
+      console.log(v.innerText.toLowerCase());
+      $(v).show();   
       } else {
         $(v).hide();
       }
     } ) 
   
   }
-  
   </script>
   </form>
     </ul>
