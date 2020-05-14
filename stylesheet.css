@@ -6,11 +6,6 @@
       background-image: url("https://ak9.picdn.net/shutterstock/videos/16587289/thumb/1.jpg");
     }
     
-    .groupMediaText {
-    position: fixed;
-      left: 590px;
-    top:200px;
-    }
     .img1 {
       width: 10%;
       height: auto;
@@ -24,14 +19,6 @@
       top: 15px;
       color: #2eff00;
     }
-    .nav {
-      position: absolute;
-      width: 1000px;
-      height: 50px;
-      left: 0px;
-      top: -10px;
-        background-color: yellow;
-    }
     .te {
       list-style-type: none;
       margin: 0;
@@ -41,22 +28,24 @@
     }
     
     .ch a {
-      display: block;
       color: white;
-      padding: 8px 16px;
+      margin-left: 0px;
       text-decoration: none;
+      
+      width:max-content;
+      float: left;
+      border-top: #333 solid 4px;
+      border-left: #333 solid 6px;
     }
     
     .ch a:hover {
         background-color: #000000;
       color: white;
+      display: inline-block;
+      border-top: #333 solid 6px;
+      border-left: #333 solid 6px;
     }
-    .but {
-     position: relative; 
     
-      left: -100px;
-      margin-bottom: 50px;
-    }
   .a {
   color: #d400ff;
   }
@@ -76,6 +65,14 @@
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
 }
+
+/* Button code not used */
+.but {
+  position: relative; 
+   left: -100px;
+   margin-bottom: 50px;
+ }
+
 .but{
  -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s; 
@@ -93,8 +90,6 @@
  /* box-shadow: 0 9px #639df9; */
 }
 .but:hover{
-
-
 display: inline-block;
   padding: 15px 25px;
   font-size: 24px;
@@ -108,7 +103,14 @@ display: inline-block;
   border-radius: 15px;
   /* box-shadow: 0 9px #639df9; */
 }
-.highlight {
-  color: yellow;
-}
+/* End unused code */
 
+input {
+  width: 96%;
+  font-size: 16px;
+  padding: 15px 20px 12px 10px;
+  border: 10px solid #333;
+  margin-bottom: 5px; 
+  margin-top: -5px; 
+  border-right: 10px solid #333;
+}
