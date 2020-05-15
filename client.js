@@ -1,6 +1,11 @@
 console.log('hi');
 
 
+function signup() {
+  console.log("ok")
+}
+
+
 function myFunction() {
   var laughs = Number(prompt("How many jokes did you laugh at?"))
   if (laughs < 127) {
@@ -29,6 +34,5 @@ function myFunction() {
 if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
  window.location.assign("https://mobile-jokes.glitch.me/")
 }
-
 
 
