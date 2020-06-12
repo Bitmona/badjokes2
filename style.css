@@ -4,7 +4,7 @@ html {
 font-family: 'Fjalla One', sans-serif;  
 font-size: 25px;
   background-image: url("https://ak9.picdn.net/shutterstock/videos/16587289/thumb/1.jpg");
-  
+  overflow:hidden;
 }
 
 .groupMediaText {
@@ -25,20 +25,24 @@ position: relative;
   top: 15px;
   color: #2eff00;
 }
-.nav {
-  position: absolute;
-  left: 610px;
-top: 350px;
+
+.navi {
+  text-align: center;
 }
-.te {
+.navi ul {
    list-style-type: none;
  margin: 0;
  padding: 0;
   width: 200px;
+ 
   background-color: #333;
+  display:inline-table;
 }
 
-
+.navi li{
+  display:inline;
+  text-align: left;
+}
 
 .ch a {
   display: block;
