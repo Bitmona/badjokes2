@@ -1,0 +1,1570 @@
+{
+    "jokes": [
+        {
+            "id": 0,
+            "joke": "What did the fish say when he swam into a wall? Dam. "
+        },
+        {
+            "id": 1,
+            "joke": " I like elephants. Everything else is irrelephant. "
+        },
+        {
+            "id": 2,
+            "joke": " What do you call an alligator in a vest? An in-vest-igator. "
+        },
+        {
+            "id": 3,
+            "joke": " Why can't dinosaurs talk? Because they are dead. "
+        },
+        {
+            "id": 4,
+            "joke": " What do you call a fly with no wings? A walk. "
+        },
+        {
+            "id": 5,
+            "joke": " What did the buffalo say when his son left? Bison! "
+        },
+        {
+            "id": 6,
+            "joke": " Three fish are in a tank. One asks the others, “How do you drive this thing?” "
+        },
+        {
+            "id": 7,
+            "joke": " Why aren’t koalas actual bears? They don’t meet the koalafications. "
+        },
+        {
+            "id": 8,
+            "joke": " Where do you find a birthday present for a cat? In a cat-alogue! "
+        },
+        {
+            "id": 9,
+            "joke": " Why are frogs are so happy? They eat whatever bugs them. "
+        },
+        {
+            "id": 10,
+            "joke": " How do you befriend a squirrel? Just act like a nut. "
+        },
+        {
+            "id": 11,
+            "joke": " Why did the jaguar eat the tightrope walker? It was craving a well-balanced meal. "
+        },
+        {
+            "id": 12,
+            "joke": " Why do chicken coups always have two doors? With four, they’d be chicken sedans. "
+        },
+        {
+            "id": 13,
+            "joke": " Why did the lifeguard kick the elephants out of the pool? They kept dropping their trunks. "
+        },
+        {
+            "id": 14,
+            "joke": " What do you call a pony with a cough? A little hoarse. "
+        },
+        {
+            "id": 15,
+            "joke": " What do cows most like to read? Cattle-logs. "
+        },
+        {
+            "id": 16,
+            "joke": " How does a duck buy lipstick? She just puts it on her bill. "
+        },
+        {
+            "id": 17,
+            "joke": " What did one shark say to the other as he ate a clownfish? Well this tastes a little funny. "
+        },
+        {
+            "id": 18,
+            "joke": " What do you call a bee that’s having a bad hair day? A frisbee. "
+        },
+        {
+            "id": 19,
+            "joke": " Which plant rules the garden? The dande-lion. "
+        },
+        {
+            "id": 20,
+            "joke": " What’s a firefly’s favorite game? Hide-and-glow-seek. "
+        },
+        {
+            "id": 21,
+            "joke": " What do ants get when they do all their chores? An allow-ants. "
+        },
+        {
+            "id": 22,
+            "joke": " What does a farmer say after feeding a stick of dynamite to his steer? Abominable! (A-bomb-in-a-bull) "
+        },
+        {
+            "id": 23,
+            "joke": " I just watched a documentary about beavers. It was the best dam show I ever saw! "
+        },
+        {
+            "id": 24,
+            "joke": " Ever tried to eat a clock? It’s very time-consuming. "
+        },
+        {
+            "id": 25,
+            "joke": " What do you call cheese that isn’t yours? Nacho Cheese. "
+        },
+        {
+            "id": 26,
+            "joke": " What do you get from a pampered cow? Spoiled milk! "
+        },
+        {
+            "id": 27,
+            "joke": " Why do cow-milking stools only have three legs? ‘Cause the cow’s got the udder! "
+        },
+        {
+            "id": 28,
+            "joke": " Did you hear about the Italian chef who died? He pasta-way. "
+        },
+        {
+            "id": 29,
+            "joke": " What do you call a fake noodle? An impasta. "
+        },
+        {
+            "id": 30,
+            "joke": " The wedding was so beautiful. Even the cake was in tiers. "
+        },
+        {
+            "id": 31,
+            "joke": " How did the hipster burn his mouth? He ate the pizza before it was cool. "
+        },
+        {
+            "id": 32,
+            "joke": " Why was the little strawberry crying? His mom was in a jam. "
+        },
+        {
+            "id": 33,
+            "joke": " What do you call a nosy pepper? Jalapeño business. "
+        },
+        {
+            "id": 34,
+            "joke": " What do you do if someone thinks an onion is the only food that can make them cry? Throw a coconut at their face. "
+        },
+        {
+            "id": 35,
+            "joke": " Why was the poor guy selling yeast? To raise some dough. "
+        },
+        {
+            "id": 36,
+            "joke": " What did one egg say to the other? Eggs-cuse me, please. "
+        },
+        {
+            "id": 37,
+            "joke": " I was interrogated over the theft of a cheese toastie. Man, they really grilled me. "
+        },
+        {
+            "id": 38,
+            "joke": " Why is 6 scared of 7? Because 7 ate(8) 9 and 10! "
+        },
+        {
+            "id": 39,
+            "joke": " What happened after an explosion at a French cheese factory? All that was left was de brie. "
+        },
+        {
+            "id": 40,
+            "joke": " Why couldn’t the sesame seed leave the casino? He was on a roll! "
+        },
+        {
+            "id": 41,
+            "joke": " When do you go at red and stop at green? When you’re eating a watermelon. "
+        },
+        {
+            "id": 42,
+            "joke": " What do you call cheese that is sad? Blue cheese. "
+        },
+        {
+            "id": 43,
+            "joke": " What do you call blueberries playing the guitar? A jam session. "
+        },
+        {
+            "id": 44,
+            "joke": " Did you hear about the carrot detective? He got to the root of every case. "
+        },
+        {
+            "id": 45,
+            "joke": " What do you get if you cross an apple with a shellfish? A crab apple! "
+        },
+        {
+            "id": 46,
+            "joke": " Which thrill ride does a wine glass love to go on the most? A coaster! "
+        },
+        {
+            "id": 47,
+            "joke": " What do you call a grilled cheese sandwich that gets up in your face? Too close for comfort food. "
+        },
+        {
+            "id": 48,
+            "joke": " Did you hear the one about the guy who invented Tic Tacs? They say he made a mint. "
+        },
+        {
+            "id": 49,
+            "joke": " What do you call a round, green vegetable that breaks out of prison? An escapea. "
+        },
+        {
+            "id": 50,
+            "joke": " Why does yogurt love going to museums? Because it’s cultured. "
+        },
+        {
+            "id": 51,
+            "joke": " Why did the dieter go to the paint store? He wanted to get thinner. "
+        },
+        {
+            "id": 52,
+            "joke": " Why do watermelons have fancy weddings? Because they cantaloupe. "
+        },
+        {
+            "id": 53,
+            "joke": " What does a grape say when it gets stepped on? Nothing, it just lets out a little wine. "
+        },
+        {
+            "id": 54,
+            "joke": " Boy, I just got hit in the head with a can of soda. I was lucky it was a soft drink. "
+        },
+        {
+            "id": 55,
+            "joke": " What do you get when you play Tug-of-War with a pig? Pulled-Pork. "
+        },
+        {
+            "id": 56,
+            "joke": " I went to a seafood restaurant and slipped. I pulled a mussel. "
+        },
+        {
+            "id": 57,
+            "joke": " What do you call the king of vegetables? Elvis Parsley. "
+        },
+        {
+            "id": 58,
+            "joke": " You know what’s hard to beat for breakfast? A boiled egg. "
+        },
+        {
+            "id": 59,
+            "joke": " Spending a lot of time at the coffee bar can cause a latte problems. "
+        },
+        {
+            "id": 60,
+            "joke": " Did you see the movie about the hot dog? It was an Oscar Wiener. "
+        },
+        {
+            "id": 61,
+            "joke": " A guy just threw a glass of milk at me. How dairy! "
+        },
+        {
+            "id": 62,
+            "joke": " I was going to grow an herb garden, but I couldn’t find the thyme. "
+        },
+        {
+            "id": 63,
+            "joke": " The majority of Americans find bananas a peeling. "
+        },
+        {
+            "id": 64,
+            "joke": " The price of candy at the movie theater is ridiculous. They’re always raisinet! "
+        },
+        {
+            "id": 65,
+            "joke": " Every morning I think I’m going to make pancakes, but I keep waffling. "
+        },
+        {
+            "id": 66,
+            "joke": " I love when candy canes are in mint condition. "
+        },
+        {
+            "id": 67,
+            "joke": " What are hot dogs called in winter? Chilly dogs. "
+        },
+        {
+            "id": 68,
+            "joke": " Becoming a vegetarian is a huge missed steak. "
+        },
+        {
+            "id": 69,
+            "joke": " What do you call a can opener that doesn’t work? A can't opener. "
+        },
+        {
+            "id": 70,
+            "joke": " There are three types of people in the world: Those who can count and those who can't count. "
+        },
+        {
+            "id": 71,
+            "joke": " I sold my vacuum the other day. All it was doing was collecting dust. "
+        },
+        {
+            "id": 72,
+            "joke": " Did you hear about the fire in the shoe factory? 10,000 soles were lost. "
+        },
+        {
+            "id": 73,
+            "joke": " Two wind mills are standing in a wind farm. One asks, “What’s your favorite type of music?” The other says, “I’m a big metal fan.” "
+        },
+        {
+            "id": 74,
+            "joke": " Whats red and bad for your teeth? A brick. "
+        },
+        {
+            "id": 75,
+            "joke": " Did you hear the story about the claustrophobic astronaut? He just needed some space. "
+        },
+        {
+            "id": 76,
+            "joke": " Why can't your nose be 12 inches long? Then it would be a foot. "
+        },
+        {
+            "id": 77,
+            "joke": " A dyslexic man walks into a rab. Get it? "
+        },
+        {
+            "id": 78,
+            "joke": " What did the mime say to his audience? Nothing. "
+        },
+        {
+            "id": 79,
+            "joke": " What did the janitor say when he jumped out of the closet? 'Supplies!' "
+        },
+        {
+            "id": 80,
+            "joke": " Whats green and has wheels? Grass. I lied about the wheels. "
+        },
+        {
+            "id": 81,
+            "joke": " My new thesaurus is terrible. Not only that, but it is also terrible. "
+        },
+        {
+            "id": 82,
+            "joke": " Whats the most terrifying word in nuclear physics? 'Oops!' "
+        },
+        {
+            "id": 83,
+            "joke": " Don't spell part backwards. It's a trap. "
+        },
+        {
+            "id": 84,
+            "joke": " How many of you believe in telekinesis? Raise MY hand! "
+        },
+        {
+            "id": 85,
+            "joke": " Somebody stole my mood ring and I'm not quite sure how I feel about that. "
+        },
+        {
+            "id": 86,
+            "joke": " Escalators don't break down... they just turn into stairs. "
+        },
+        {
+            "id": 87,
+            "joke": " A pirate walks into a bar with a steering wheel on his pants, a peg leg, and a parrot on his shoulder. The bartender says, “Hey, you’ve got a steering wheel on your pants.” The pirate says, “Arrrr, I know. It’s driving me nuts.” "
+        },
+        {
+            "id": 88,
+            "joke": " What’s brown and sticky? A stick. "
+        },
+        {
+            "id": 89,
+            "joke": " What’s a foot long and slippery? A slipper. "
+        },
+        {
+            "id": 90,
+            "joke": " As a scarecrow, people say I’m outstanding in my field. But hay, it’s in my jeans. "
+        },
+        {
+            "id": 91,
+            "joke": " I waited and stayed up all night and tried to figure out where the sun was. Then it dawned on me. "
+        },
+        {
+            "id": 92,
+            "joke": " I couldn’t believe that the highway department called my dad a thief. But when I got home, all the signs were there. "
+        },
+        {
+            "id": 93,
+            "joke": " What did the traffic light say to the car? Don’t look! I’m about to change. "
+        },
+        {
+            "id": 94,
+            "joke": " What did the big bucket say to the smaller one? Lookin’ a little pail there. "
+        },
+        {
+            "id": 95,
+            "joke": " What did one hat say to the other? You stay here. I’ll go on ahead. "
+        },
+        {
+            "id": 96,
+            "joke": " What do you call a guy with a rubber toe? Roberto. "
+        },
+        {
+            "id": 97,
+            "joke": " What did the cop say to his stomach? Stop! I’ve got you under a vest! "
+        },
+        {
+            "id": 98,
+            "joke": " What do you call a snowman on a hot day? Puddle. "
+        },
+        {
+            "id": 99,
+            "joke": " What do you do with a sick boat? Take is to the doc already. "
+        },
+        {
+            "id": 100,
+            "joke": " What did the rubber band factory worker say when he was fired? Oh, snap! "
+        },
+        {
+            "id": 101,
+            "joke": " What did the older chimney say to the younger one? But you’re way too young to smoke! "
+        },
+        {
+            "id": 102,
+            "joke": " Who do you call when the ocean needs a little cleaning? A mer-maid, of course. "
+        },
+        {
+            "id": 103,
+            "joke": " Why did the skeleton hit the party solo? He had no body to go with him. "
+        },
+        {
+            "id": 104,
+            "joke": " I just wrote a book on reverse psychology. Do not read it! "
+        },
+        {
+            "id": 105,
+            "joke": " What’s so bad about Russian dolls? They’re all so full of themselves. "
+        },
+        {
+            "id": 106,
+            "joke": " What time did the man go to the dentist? Tooth hurt-y! "
+        },
+        {
+            "id": 107,
+            "joke": " My first day on the job at an IKEA store, I was told by my boss that employees needed to go to the meeting room before every shift. I asked why. He said, 'Assembly required.' "
+        },
+        {
+            "id": 108,
+            "joke": " I used to have a job at a calendar factory but I got fired because I took a couple of days off. "
+        },
+        {
+            "id": 109,
+            "joke": " I’m thinking about removing my spine. I feel like it’s only holding me back. "
+        },
+        {
+            "id": 110,
+            "joke": " Two antennas met on a roof, fell in love and got married. The ceremony wasn’t much, but the reception was excellent! "
+        },
+        {
+            "id": 111,
+            "joke": " Why did the coffee file a police report? It got mugged. "
+        },
+        {
+            "id": 112,
+            "joke": " I saw this advert in a window that said: “Television for sale, $1, volume stuck on full.” I thought, “I can’t turn that down.” "
+        },
+        {
+            "id": 113,
+            "joke": " The shovel was a ground-breaking invention. "
+        },
+        {
+            "id": 114,
+            "joke": " What do you call a person in a tree with a briefcase? A branch manager! "
+        },
+        {
+            "id": 115,
+            "joke": " What did Mario say when he broke up with Princess Peach? It’s not you, it’s a-me, Mario! "
+        },
+        {
+            "id": 116,
+            "joke": " Two neuroscientists walk into a casino. One asks the other, 'How are we going to do this?' The other replies, 'Don't worry, I got a system!' "
+        },
+        {
+            "id": 117,
+            "joke": " I am friends with 25 letters of the alphabet. I don't know Y. "
+        },
+        {
+            "id": 118,
+            "joke": " What is a moms favorite dance? The mambo! "
+        },
+        {
+            "id": 119,
+            "joke": " And the lord said unto John 'Come forth and you shall receive eternal life.' But John came fifth and won a toaster. "
+        },
+        {
+            "id": 120,
+            "joke": " Today at the bank, an old lady asked me to check her balance. So I pushed her over. "
+        },
+        {
+            "id": 121,
+            "joke": " My boss told me to have a good day. So I went home. "
+        },
+        {
+            "id": 122,
+            "joke": " How do you make holy water? You boil the hell out of it. "
+        },
+        {
+            "id": 123,
+            "joke": " What do you call a fat candy store merchant? A kleptomaniac. "
+        },
+        {
+            "id": 124,
+            "joke": " Last year I wrote a book on penguins. In hindsight I should have written it on paper. "
+        },
+        {
+            "id": 125,
+            "joke": " What do pigs use on their skin? Oink-Ment! "
+        },
+        {
+            "id": 126,
+            "joke": " I don't trust stairs. They're always up to something. "
+        },
+        {
+            "id": 127,
+            "joke": " This graveyard looks overcrowded. People must be dying to get in. "
+        },
+        {
+            "id": 128,
+            "joke": " What concert costs just 45 cents? 50 Cent featuring Nickelback! "
+        },
+        {
+            "id": 129,
+            "joke": " Why did the math book look so sad? Because of all of its problems! "
+        },
+        {
+            "id": 130,
+            "joke": " How does a penguin build its house? Igloos it together. "
+        },
+        {
+            "id": 131,
+            "joke": " I made a pencil with two erasers. It was pointless. "
+        },
+        {
+            "id": 132,
+            "joke": " Did you hear about the guy who invented the knock-knock joke? He won the 'no-bell' prize. "
+        },
+        {
+            "id": 133,
+            "joke": " I used to hate facial hair...but then it grew on me. "
+        },
+        {
+            "id": 134,
+            "joke": " What do sprinters eat before a race? Nothing, they fast! "
+        },
+        {
+            "id": 135,
+            "joke": " What do you call a mac 'n' cheese that gets all up in your face? Too close for comfort food! "
+        },
+        {
+            "id": 136,
+            "joke": " Why couldn't the bicycle stand up by itself? It was two tired! "
+        },
+        {
+            "id": 137,
+            "joke": " Did you hear about the restaurant on the moon? Great food, no atmosphere! "
+        },
+        {
+            "id": 138,
+            "joke": " What do you call a fish with two knees? A two-knee fish! "
+        },
+        {
+            "id": 139,
+            "joke": " Why do melons have weddings? Because they cantaloupe! "
+        },
+        {
+            "id": 140,
+            "joke": " What's the difference between a poorly dressed man on a tricycle and a well-dressed man on a bicycle? Attire! "
+        },
+        {
+            "id": 141,
+            "joke": " How many apples grow on a tree? All of them! "
+        },
+        {
+            "id": 142,
+            "joke": " Did you hear the rumor about butter? Well, I'm not going to spread it! "
+        },
+        {
+            "id": 143,
+            "joke": " Why do you never see elephants hiding in trees? Because they're so good at it! "
+        },
+        {
+            "id": 144,
+            "joke": " Why did the old man fall in the well? Because he couldn't see that well! "
+        },
+        {
+            "id": 145,
+            "joke": " Why don't skeletons ever go trick or treating? Because they have no body to go with! "
+        },
+        {
+            "id": 146,
+            "joke": " What do you call a factory that sells passable products? A satisfactory! "
+        },
+        {
+            "id": 147,
+            "joke": " Why did the invisible man turn down the job offer? He couldn't see himself doing it! "
+        },
+        {
+            "id": 148,
+            "joke": " Want to hear a joke about construction? I'm still working on it! "
+        },
+        {
+            "id": 149,
+            "joke": " To whoever stole my copy of Microsoft Office, I will find you. You have my Word! "
+        },
+        {
+            "id": 150,
+            "joke": " I'm so good at sleeping I can do it with my eyes closed! "
+        },
+        {
+            "id": 151,
+            "joke": " Spring is here! I got so excited I wet my plants! "
+        },
+        {
+            "id": 152,
+            "joke": " I thought about going on an all-almond diet… But that's just nuts! "
+        },
+        {
+            "id": 153,
+            "joke": " My friend asked me, “What rhymes with orange?” And I told him, “No it doesn't!” "
+        },
+        {
+            "id": 154,
+            "joke": " My wife told me I had to stop acting like a flamingo. So I had to put my foot down! "
+        },
+        {
+            "id": 155,
+            "joke": " I told my girlfriend she drew her eyebrows too high. She seemed surprised! "
+        },
+        {
+            "id": 156,
+            "joke": " So a vowel saves another vowel's life. The other vowel says, Aye E! I owe you! "
+        },
+        {
+            "id": 157,
+            "joke": " Did I tell you the time I fell in love during a backflip? I was heels over head! "
+        },
+        {
+            "id": 158,
+            "joke": " My uncle named his dogs Rolex and Timex. They're his watch dogs! "
+        },
+        {
+            "id": 159,
+            "joke": " If you see a robbery at an Apple Store does that make you an iWitness?! "
+        },
+        {
+            "id": 160,
+            "joke": " I would avoid the sushi if I was you. It's a little fishy! "
+        },
+        {
+            "id": 161,
+            "joke": " Five out of four people admit they're bad with fractions! "
+        },
+        {
+            "id": 162,
+            "joke": " When the grocery store clerk asks me if I want the milk in a bag, I always tell him, No, I'd rather drink it out of the carton! "
+        },
+        {
+            "id": 163,
+            "joke": " The difference between a numerator and a denominator is a short line. Only a fraction of people will understand this! "
+        },
+        {
+            "id": 164,
+            "joke": " I don't play soccer because I enjoy the sport. I'm just doing it for kicks! "
+        },
+        {
+            "id": 165,
+            "joke": " Can February March? No, but April May! "
+        },
+        {
+            "id": 166,
+            "joke": " What's orange and sounds like a parrot? A carrot! "
+        },
+        {
+            "id": 167,
+            "joke": " I invented a new word today: Plagiarism! "
+        },
+        {
+            "id": 168,
+            "joke": " What do you call a donkey with only three legs? A wonkey! "
+        },
+        {
+            "id": 169,
+            "joke": " I know a lot of jokes about retired people but none of them work! "
+        },
+        {
+            "id": 170,
+            "joke": " What do Santa's elves listen to as they work? Wrap music! "
+        },
+        {
+            "id": 171,
+            "joke": " What rhymes with boo and stinks? You! "
+        },
+        {
+            "id": 172,
+            "joke": " If an English teacher is convicted of a crime and doesn't complete the sentence, is that a fragment? "
+        },
+        {
+            "id": 173,
+            "joke": " I think my wife is putting glue on my antique weapons collection. She denies it but I'm sticking to my guns! "
+        },
+        {
+            "id": 174,
+            "joke": " Which U.S. state is famous for its extra-small soft drinks? Minnesota! "
+        },
+        {
+            "id": 175,
+            "joke": " I got a hen to regularly count her own eggs. She's a real mathamachicken! "
+        },
+        {
+            "id": 176,
+            "joke": " What did the Ranch say when someone opened the refrigerator door? Close the door, I'm dressing! "
+        },
+        {
+            "id": 177,
+            "joke": " Why do trees seem suspicious on sunny days? They just seem a little shady! "
+        },
+        {
+            "id": 178,
+            "joke": " Last night I had a dream that I weighed less than a thousandth of a gram. I was like, 0mg. "
+        },
+        {
+            "id": 179,
+            "joke": " I've been bored recently so I've decided to take up fencing. The neighbors said they will call the police unless I put it back. "
+        },
+        {
+            "id": 180,
+            "joke": " I don't really call for funerals that start before noon. I guess I'm just not a mourning person! "
+        },
+        {
+            "id": 181,
+            "joke": " If two vegans get in a fight, is it still considered a beef? "
+        },
+        {
+            "id": 182,
+            "joke": " One of my favorite memories as a kid was when my brothers used to put me inside a tire and roll me down a hill. They were Goodyears! "
+        },
+        {
+            "id": 183,
+            "joke": " What do you call a hippie's wife? A Mississippi! "
+        },
+        {
+            "id": 184,
+            "joke": " What did the duck say when she bought lipstick? Put it on my bill! "
+        },
+        {
+            "id": 185,
+            "joke": " I hate Russian dolls. They're so full of themselves. "
+        },
+        {
+            "id": 186,
+            "joke": " Where did the computer go dancing? The disc-o! "
+        },
+        {
+            "id": 187,
+            "joke": " What do bees do if they need a ride? Wait at the buzz stop! "
+        },
+        {
+            "id": 188,
+            "joke": " What do you give to a sick lemon? Lemon aid! "
+        },
+        {
+            "id": 189,
+            "joke": " What did the little mountain say to the bigger mountain? Hi Cliff! "
+        },
+        {
+            "id": 190,
+            "joke": " What do you call a monkey that loves Doritos? A chipmunk! "
+        },
+        {
+            "id": 191,
+            "joke": " Why did the can crusher quit his job? Because it was soda pressing! "
+        },
+        {
+            "id": 192,
+            "joke": " What do you call a cow with two legs? Lean beef! "
+        },
+        {
+            "id": 193,
+            "joke": " Do you remember that joke I told you about my spine? It was about a weak back! "
+        },
+        {
+            "id": 194,
+            "joke": " What do you call a dangerous sun shower? A rain of terror! "
+        },
+        {
+            "id": 195,
+            "joke": " Why do seagulls fly over the sea? Because if they flew over the bay, they'd be bagels! "
+        },
+        {
+            "id": 196,
+            "joke": " What do you call a farm that makes bad jokes? Corny! "
+        },
+        {
+            "id": 197,
+            "joke": " Why do fish live in saltwater? Because pepper makes them sneeze! "
+        },
+        {
+            "id": 198,
+            "joke": " What streets to ghosts haunt? Dead ends! "
+        },
+        {
+            "id": 199,
+            "joke": " What do you tell actors to break a leg? Because every play has a cast! "
+        },
+        {
+            "id": 200,
+            "joke": " What kind of dogs love car racing? Lap dogs! "
+        },
+        {
+            "id": 201,
+            "joke": " What did Winnie the Pooh say to his agent? Show me the honey! "
+        },
+        {
+            "id": 202,
+            "joke": " What do you call birds who stick together? Vel-crows. "
+        },
+        {
+            "id": 203,
+            "joke": " Today I gave my dead batteries away. They were free of charge. "
+        },
+        {
+            "id": 204,
+            "joke": " I was sitting in traffic the other day. Probably why I got run over. "
+        },
+        {
+            "id": 205,
+            "joke": " Sometimes I tuck my knees into my chest and lean forward. That's just how I roll. "
+        },
+        {
+            "id": 206,
+            "joke": " What's red and shaped like a bucket? A blue bucket painted red. "
+        },
+        {
+            "id": 207,
+            "joke": " What don't ants get sick? They have anty-bodies. "
+        },
+        {
+            "id": 208,
+            "joke": " Why do you smear peanut butter on the road? To go with the traffic jam. "
+        },
+        {
+            "id": 209,
+            "joke": " When is your door not actually a door? When it's actually ajar. "
+        },
+        {
+            "id": 210,
+            "joke": " My grandfather has the heart of a lion and a lifetime ban from the National Zoo. "
+        },
+        {
+            "id": 211,
+            "joke": " What's green, fuzzy, and would hurt if it fell on you out of a tree? A pool table. "
+        },
+        {
+            "id": 212,
+            "joke": " A communist joke isn't funny unless everyone gets it. "
+        },
+        {
+            "id": 213,
+            "joke": " What did one dish say to the other? Dinner is on me! "
+        },
+        {
+            "id": 214,
+            "joke": " What does a house wear? Address! "
+        },
+        {
+            "id": 215,
+            "joke": " Why can't you hear a Pterodactyl go to the bathroom? Because the pee is silent. "
+        },
+        {
+            "id": 216,
+            "joke": " What do you call someone who immigrated to Sweden? Artificial Swedener. "
+        },
+        {
+            "id": 217,
+            "joke": " Have you heard the one about the corduroy pillow? It's making headlines. "
+        },
+        {
+            "id": 218,
+            "joke": " What do you call a man with no arms and no legs in a pool? Bob. "
+        },
+        {
+            "id": 219,
+            "joke": " What do you call a man who can't stand? Neil. "
+        },
+        {
+            "id": 220,
+            "joke": " What's the dumbest animal in the jungle? A polar bear! "
+        },
+        {
+            "id": 221,
+            "joke": " I'm thinking about removing my spine. I feel like it's only holding me back. "
+        },
+        {
+            "id": 222,
+            "joke": " Did you hear about the two thieves who stole a calendar? They each got six months. "
+        },
+        {
+            "id": 223,
+            "joke": " I'm terrified of elevators so I'm going to start taking steps to avoid them. "
+        },
+        {
+            "id": 224,
+            "joke": " Have you heard of the band 923 Megabytes? Probably not, they haven't had a gig yet. "
+        },
+        {
+            "id": 225,
+            "joke": " How many bugs do you need to rent out an apartment? Tenants. "
+        },
+        {
+            "id": 226,
+            "joke": " I want to go camping every year. That trip was so in tents. "
+        },
+        {
+            "id": 227,
+            "joke": " Wait, you don't want to hear a joke about potassium? K. "
+        },
+        {
+            "id": 228,
+            "joke": " How do you organize a space-themed party? You planet. "
+        },
+        {
+            "id": 229,
+            "joke": " How do you feel when there's no coffee? Depresso. "
+        },
+        {
+            "id": 230,
+            "joke": " I broke my arm in two places. You know what the doctor told me?Stay out of those places! "
+        },
+        {
+            "id": 231,
+            "joke": " What do you give a sick bird? Tweetment. "
+        },
+        {
+            "id": 232,
+            "joke": " Where did the king keep his armies? Up his sleevies. "
+        },
+        {
+            "id": 233,
+            "joke": " What are the biggest enemies of caterpillars? Dogerpillers. "
+        },
+        {
+            "id": 234,
+            "joke": " What do you call an empty can of Cheese Whiz? Cheese Was. "
+        },
+        {
+            "id": 235,
+            "joke": " What's the award for being the best dentist? A little plaque. "
+        },
+        {
+            "id": 236,
+            "joke": " What did the finger say to the thumb? I'm in glove with you. "
+        },
+        {
+            "id": 237,
+            "joke": " What do you call a magician dog? A labracadabrador. "
+        },
+        {
+            "id": 238,
+            "joke": " Who invented the round table? Sir Cumference. "
+        },
+        {
+            "id": 239,
+            "joke": " What do you call the security guards outside of Samsung? The guardians of the galaxy. "
+        },
+        {
+            "id": 240,
+            "joke": " What sound does a nut make when it sneezes? Cashew! "
+        },
+        {
+            "id": 241,
+            "joke": " Why do ghosts love elevators? Because it lifts their spirits. "
+        },
+        {
+            "id": 242,
+            "joke": " What's the best way to carve wood? Whittle by whittle. "
+        },
+        {
+            "id": 243,
+            "joke": " Why was the snowman looking through a bag of carrots? He was picking his nose. "
+        },
+        {
+            "id": 244,
+            "joke": " What do you call a belt made out of watches? A waist of time. "
+        },
+        {
+            "id": 245,
+            "joke": " How can you make seven an even number? Just take away the s! "
+        },
+        {
+            "id": 246,
+            "joke": " What did the lawyer wear to court? A lawsuit! "
+        },
+        {
+            "id": 247,
+            "joke": " What did the clock do when it was hungry? It went back four seconds. "
+        },
+        {
+            "id": 248,
+            "joke": " What do you call a dog with no legs? You can call him whatever you want, he's still not coming. "
+        },
+        {
+            "id": 249,
+            "joke": " I still remember the last thing my grandfather said before kicking the bucket: Hey, you want to see how far I can kick this bucket? "
+        },
+        {
+            "id": 250,
+            "joke": " What kind of dinosaur loves to sleep? Well, now, all of them. "
+        },
+        {
+            "id": 251,
+            "joke": " Why did the teacher love the whiteboard? She just thought it was remarkable! "
+        },
+        {
+            "id": 252,
+            "joke": " What's the best part about living in Switzerland? I'm not sure, but the flag is a big plus! "
+        },
+        {
+            "id": 253,
+            "joke": " What did the drummer call his two twin daughters? Anna one, Anna two. "
+        },
+        {
+            "id": 254,
+            "joke": " What do you call a boomerang that never comes back? A stick. "
+        },
+        {
+            "id": 255,
+            "joke": " Want to hear a joke about paper? Never mind, it's tearable."
+        }
+    ],
+    "animals": [
+        {
+            "id": 0,
+            "joke": "What did the fish say when he swam into a wall? Dam. "
+        },
+        {
+            "id": 1,
+            "joke": " I like elephants. Everything else is irrelephant. "
+        },
+        {
+            "id": 2,
+            "joke": " What do you call an alligator in a vest? An in-vest-igator. "
+        },
+        {
+            "id": 3,
+            "joke": " Why can't dinosaurs talk? Because they are dead. "
+        },
+        {
+            "id": 4,
+            "joke": " What do you call a fly with no wings? A walk. "
+        },
+        {
+            "id": 5,
+            "joke": " What did the buffalo say when his son left? Bison! "
+        },
+        {
+            "id": 6,
+            "joke": " Three fish are in a tank. One asks the others, “How do you drive this thing?” "
+        },
+        {
+            "id": 7,
+            "joke": " Why aren’t koalas actual bears? They don’t meet the koalafications. "
+        },
+        {
+            "id": 8,
+            "joke": " Where do you find a birthday present for a cat? In a cat-alogue! "
+        },
+        {
+            "id": 9,
+            "joke": " Why are frogs are so happy? They eat whatever bugs them. "
+        },
+        {
+            "id": 10,
+            "joke": " How do you befriend a squirrel? Just act like a nut. "
+        },
+        {
+            "id": 11,
+            "joke": " Why did the jaguar eat the tightrope walker? It was craving a well-balanced meal. "
+        },
+        {
+            "id": 12,
+            "joke": " What did the big bucket say to the smaller one? Lookin’ a little pail there. "
+        },
+        {
+            "id": 13,
+            "joke": " Why do chicken coups always have two doors? With four, they’d be chicken sedans. "
+        },
+        {
+            "id": 14,
+            "joke": " Why did the lifeguard kick the elephants out of the pool? They kept dropping their trunks. "
+        },
+        {
+            "id": 15,
+            "joke": " What do you call a pony with a cough? A little hoarse. "
+        },
+        {
+            "id": 16,
+            "joke": " What do cows most like to read? Cattle-logs. "
+        },
+        {
+            "id": 17,
+            "joke": " How does a duck buy lipstick? She just puts it on her bill. "
+        },
+        {
+            "id": 18,
+            "joke": " What did one shark say to the other as he ate a clownfish? Well this tastes a little funny. "
+        },
+        {
+            "id": 19,
+            "joke": " What do you call a bee that’s having a bad hair day? A frisbee. "
+        },
+        {
+            "id": 20,
+            "joke": " Which plant rules the garden? The dande-lion. "
+        },
+        {
+            "id": 21,
+            "joke": " What’s a firefly’s favorite game? Hide-and-glow-seek. "
+        },
+        {
+            "id": 22,
+            "joke": " What do ants get when they do all their chores? An allow-ants. "
+        },
+        {
+            "id": 23,
+            "joke": " What does a farmer say after feeding a stick of dynamite to his steer? Abominable! (A-bomb-in-a-bull) "
+        },
+        {
+            "id": 24,
+            "joke": " I just watched a documentary about beavers. It was the best dam show I ever saw! "
+        },
+        {
+            "id": 25,
+            "joke": " Ever tried to eat a clock? It’s very time-consuming. "
+        },
+        {
+            "id": 26,
+            "joke": " Why did the invisible man turn down the job offer? He couldn’t see himself doing it. "
+        },
+        {
+            "id": 27,
+            "joke": " Two antennas met on a roof, fell in love and got married. The ceremony wasn’t much, but the reception was excellent! "
+        },
+        {
+            "id": 28,
+            "joke": " What do you call cheese that isn’t yours? Nacho Cheese. "
+        },
+        {
+            "id": 29,
+            "joke": " What do you get from a pampered cow? Spoiled milk! "
+        },
+        {
+            "id": 30,
+            "joke": " Why do cow-milking stools only have three legs? ‘Cause the cow’s got the udder! "
+        },
+        {
+            "id": 31,
+            "joke": " Last year I wrote a book on penguins. In hindsight I should have written it on paper. "
+        },
+        {
+            "id": 32,
+            "joke": " What do pigs use on their skin? Oink-Ment!"
+        }
+    ],
+    "food": [
+        {
+            "id": 0,
+            "joke": "What do you call a can opener that doesn’t work? A can't opener. "
+        },
+        {
+            "id": 1,
+            "joke": " Did you hear about the Italian chef who died? He pasta-way. "
+        },
+        {
+            "id": 2,
+            "joke": " What do you call a fake noodle? An impasta. "
+        },
+        {
+            "id": 3,
+            "joke": " The wedding was so beautiful. Even the cake was in tiers. "
+        },
+        {
+            "id": 4,
+            "joke": " How did the hipster burn his mouth? He ate the pizza before it was cool. "
+        },
+        {
+            "id": 5,
+            "joke": " Why was the little strawberry crying? His mom was in a jam. "
+        },
+        {
+            "id": 6,
+            "joke": " What do you call a nosy pepper? Jalapeño business. "
+        },
+        {
+            "id": 7,
+            "joke": " What do you do if someone thinks an onion is the only food that can make them cry? Throw a coconut at their face. "
+        },
+        {
+            "id": 8,
+            "joke": " Why was the poor guy selling yeast? To raise some dough. "
+        },
+        {
+            "id": 9,
+            "joke": " What did one egg say to the other? Eggs-cuse me, please. "
+        },
+        {
+            "id": 10,
+            "joke": " I was interrogated over the theft of a cheese toastie. Man, they really grilled me. "
+        },
+        {
+            "id": 11,
+            "joke": " Ever tried to eat a clock? It’s very time-consuming. "
+        },
+        {
+            "id": 12,
+            "joke": " What do you call cheese that isn’t yours? Nacho Cheese. "
+        },
+        {
+            "id": 13,
+            "joke": " What do you get from a pampered cow? Spoiled milk! "
+        },
+        {
+            "id": 14,
+            "joke": " Why is 6 scared of 7? Because 7 ate(8) 9 and 10! "
+        },
+        {
+            "id": 15,
+            "joke": " Why did the coffee file a police report? It got mugged. "
+        },
+        {
+            "id": 16,
+            "joke": " What happened after an explosion at a French cheese factory? All that was left was de brie. "
+        },
+        {
+            "id": 17,
+            "joke": " Why couldn’t the sesame seed leave the casino? He was on a roll! "
+        },
+        {
+            "id": 18,
+            "joke": " When do you go at red and stop at green? When you’re eating a watermelon. "
+        },
+        {
+            "id": 19,
+            "joke": " What do you call cheese that is sad? Blue cheese. "
+        },
+        {
+            "id": 20,
+            "joke": " What do you call blueberries playing the guitar? A jam session. "
+        },
+        {
+            "id": 21,
+            "joke": " Did you hear about the carrot detective? He got to the root of every case. "
+        },
+        {
+            "id": 22,
+            "joke": " What do you get if you cross an apple with a shellfish? A crab apple! "
+        },
+        {
+            "id": 23,
+            "joke": " Which thrill ride does a wine glass love to go on the most? A coaster! "
+        },
+        {
+            "id": 24,
+            "joke": " What do you call a grilled cheese sandwich that gets up in your face? Too close for comfort food. "
+        },
+        {
+            "id": 25,
+            "joke": " Did you hear the one about the guy who invented Tic Tacs? They say he made a mint. "
+        },
+        {
+            "id": 26,
+            "joke": " What do you call a round, green vegetable that breaks out of prison? An escapea. "
+        },
+        {
+            "id": 27,
+            "joke": " Why does yogurt love going to museums? Because it’s cultured. "
+        },
+        {
+            "id": 28,
+            "joke": " Why did the dieter go to the paint store? He wanted to get thinner. "
+        },
+        {
+            "id": 29,
+            "joke": " Why do watermelons have fancy weddings? Because they cantaloupe. "
+        },
+        {
+            "id": 30,
+            "joke": " What does a grape say when it gets stepped on? Nothing, it just lets out a little wine. "
+        },
+        {
+            "id": 31,
+            "joke": " Boy, I just got hit in the head with a can of soda. I was lucky it was a soft drink. "
+        },
+        {
+            "id": 32,
+            "joke": " What do you get when you play Tug-of-War with a pig? Pulled-Pork. "
+        },
+        {
+            "id": 33,
+            "joke": " I went to a seafood restaurant and slipped. I pulled a mussel. "
+        },
+        {
+            "id": 34,
+            "joke": " What do you call the king of vegetables? Elvis Parsley. "
+        },
+        {
+            "id": 35,
+            "joke": " You know what’s hard to beat for breakfast? A boiled egg. "
+        },
+        {
+            "id": 36,
+            "joke": " Spending a lot of time at the coffee bar can cause a latte problems. "
+        },
+        {
+            "id": 37,
+            "joke": " Did you see the movie about the hot dog? It was an Oscar Wiener. "
+        },
+        {
+            "id": 38,
+            "joke": " A guy just threw a glass of milk at me. How dairy! "
+        },
+        {
+            "id": 39,
+            "joke": " I was going to grow an herb garden, but I couldn’t find the thyme. "
+        },
+        {
+            "id": 40,
+            "joke": " The majority of Americans find bananas a peeling. "
+        },
+        {
+            "id": 41,
+            "joke": " The price of candy at the movie theater is ridiculous. They’re always raisinet! "
+        },
+        {
+            "id": 42,
+            "joke": " Every morning I think I’m going to make pancakes, but I keep waffling. "
+        },
+        {
+            "id": 43,
+            "joke": " I love when candy canes are in mint condition. "
+        },
+        {
+            "id": 44,
+            "joke": " What are hot dogs called in winter? Chilly dogs. "
+        },
+        {
+            "id": 45,
+            "joke": " Becoming a vegetarian is a huge missed steak."
+        }
+    ],
+    "other": [
+        {
+            "id": 0,
+            "joke": "There are three types of people in the world: Those who can count and those who can't count. "
+        },
+        {
+            "id": 1,
+            "joke": " I sold my vacuum the other day. All it was doing was collecting dust. "
+        },
+        {
+            "id": 2,
+            "joke": " Did you hear about the fire in the shoe factory? 10,000 soles were lost. "
+        },
+        {
+            "id": 3,
+            "joke": " Two wind mills are standing in a wind farm. One asks, “What’s your favorite type of music?” The other says, “I’m a big metal fan.” "
+        },
+        {
+            "id": 4,
+            "joke": " Whats red and bad for your teeth? A brick. "
+        },
+        {
+            "id": 5,
+            "joke": " Did you hear the story about the claustrophobic astronaut? He just needed some space. "
+        },
+        {
+            "id": 6,
+            "joke": " Why can't your nose be 12 inches long? Then it would be a foot. "
+        },
+        {
+            "id": 7,
+            "joke": " A dyslexic man walks into a rab. Get it? "
+        },
+        {
+            "id": 8,
+            "joke": " What did the mime say to his audience? Nothing. "
+        },
+        {
+            "id": 9,
+            "joke": " What did the janitor say when he jumped out of the closet? 'Supplies!' "
+        },
+        {
+            "id": 10,
+            "joke": " Whats green and has wheels? Grass. I lied about the wheels. "
+        },
+        {
+            "id": 11,
+            "joke": " My new thesaurus is terrible. Not only that, but it is also terrible. "
+        },
+        {
+            "id": 12,
+            "joke": " Whats the most terrifying word in nuclear physics? 'Oops!' "
+        },
+        {
+            "id": 13,
+            "joke": " Don't spell part backwards. It's a trap. "
+        },
+        {
+            "id": 14,
+            "joke": " How many of you believe in telekinesis? Raise MY hand! "
+        },
+        {
+            "id": 15,
+            "joke": " Somebody stole my mood ring and I'm not quite sure how I feel about that. "
+        },
+        {
+            "id": 16,
+            "joke": " Escalators don't break down... they just turn into stairs. "
+        },
+        {
+            "id": 17,
+            "joke": " A pirate walks into a bar with a steering wheel on his pants, a peg leg, and a parrot on his shoulder. The bartender says, “Hey, you’ve got a steering wheel on your pants.” The pirate says, “Arrrr, I know. It’s driving me nuts.” "
+        },
+        {
+            "id": 18,
+            "joke": " What’s brown and sticky? A stick. "
+        },
+        {
+            "id": 19,
+            "joke": " What’s a foot long and slippery? A slipper. "
+        },
+        {
+            "id": 20,
+            "joke": " As a scarecrow, people say I’m outstanding in my field. But hay, it’s in my jeans. "
+        },
+        {
+            "id": 21,
+            "joke": " I waited and stayed up all night and tried to figure out where the sun was. Then it dawned on me. "
+        },
+        {
+            "id": 22,
+            "joke": " I couldn’t believe that the highway department called my dad a thief. But when I got home, all the signs were there. "
+        },
+        {
+            "id": 23,
+            "joke": " What did the traffic light say to the car? Don’t look! I’m about to change. "
+        },
+        {
+            "id": 24,
+            "joke": " What did the big bucket say to the smaller one? Lookin’ a little pail there. "
+        },
+        {
+            "id": 25,
+            "joke": " What did one hat say to the other? You stay here. I’ll go on ahead. "
+        },
+        {
+            "id": 26,
+            "joke": " What do you call a guy with a rubber toe? Roberto. "
+        },
+        {
+            "id": 27,
+            "joke": " What did the cop say to his stomach? Stop! I’ve got you under a vest! "
+        },
+        {
+            "id": 28,
+            "joke": " What do you call a snowman on a hot day? Puddle. "
+        },
+        {
+            "id": 29,
+            "joke": " What do you do with a sick boat? Take is to the doc already. "
+        },
+        {
+            "id": 30,
+            "joke": " What did the rubber band factory worker say when he was fired? Oh, snap! "
+        },
+        {
+            "id": 31,
+            "joke": " What did the older chimney say to the younger one? But you’re way too young to smoke! "
+        },
+        {
+            "id": 32,
+            "joke": " Who do you call when the ocean needs a little cleaning? A mer-maid, of course. "
+        },
+        {
+            "id": 33,
+            "joke": " Why did the skeleton hit the party solo? He had no body to go with him. "
+        },
+        {
+            "id": 34,
+            "joke": " I just wrote a book on reverse psychology. Do not read it! "
+        },
+        {
+            "id": 35,
+            "joke": " What’s so bad about Russian dolls? They’re all so full of themselves. "
+        },
+        {
+            "id": 36,
+            "joke": " What time did the man go to the dentist? Tooth hurt-y! "
+        },
+        {
+            "id": 37,
+            "joke": " My first day on the job at an IKEA store, I was told by my boss that employees needed to go to the meeting room before every shift. I asked why. He said, 'Assembly required.' "
+        },
+        {
+            "id": 38,
+            "joke": " I used to have a job at a calendar factory but I got fired because I took a couple of days off. "
+        },
+        {
+            "id": 39,
+            "joke": " I’m thinking about removing my spine. I feel like it’s only holding me back. "
+        },
+        {
+            "id": 40,
+            "joke": " Why did the invisible man turn down the job offer? He couldn’t see himself doing it. "
+        },
+        {
+            "id": 41,
+            "joke": " Two antennas met on a roof, fell in love and got married. The ceremony wasn’t much, but the reception was excellent! "
+        },
+        {
+            "id": 42,
+            "joke": " Why did the coffee file a police report? It got mugged. "
+        },
+        {
+            "id": 43,
+            "joke": " I saw this advert in a window that said: “Television for sale, $1, volume stuck on full.” I thought, “I can’t turn that down.” "
+        },
+        {
+            "id": 44,
+            "joke": " The shovel was a ground-breaking invention. "
+        },
+        {
+            "id": 45,
+            "joke": " What do you call a person in a tree with a briefcase? A branch manager! "
+        },
+        {
+            "id": 46,
+            "joke": " What did Mario say when he broke up with Princess Peach? It’s not you, it’s a-me, Mario! "
+        },
+        {
+            "id": 47,
+            "joke": " I am friends with 25 letters of the alphabet. I don't know Y. "
+        },
+        {
+            "id": 48,
+            "joke": " Two neuroscientists walk into a casino. One asks the other, 'How are we going to do this?' The other replies, 'Don't worry, I got a system!' "
+        },
+        {
+            "id": 49,
+            "joke": " What is a moms favorite dance? The mambo! "
+        },
+        {
+            "id": 50,
+            "joke": " And the lord said unto John 'Come forth and you shall receive eternal life. But John came fifth and won a toaster. "
+        },
+        {
+            "id": 51,
+            "joke": " Today at the bank, an old lady asked me to check her balance. So I pushed her over. "
+        },
+        {
+            "id": 52,
+            "joke": " My boss told me to have a good day. So I went home. "
+        },
+        {
+            "id": 53,
+            "joke": " How do you make holy water? You boil the hell out of it. "
+        },
+        {
+            "id": 54,
+            "joke": " What do you call a fat candy store merchant? A kleptomaniac."
+        }
+    ]
+}
