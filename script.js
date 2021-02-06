@@ -25,7 +25,6 @@ function alls() {
     $.getJSON('jokes.json', function(data) {         
        $('#fe').empty();
       for (var i = 0; i < data.jokes.length; i++) {
-       console.log(data.jokes[i].joke);
        var node = document.createElement("LI");
        var textnode = document.createTextNode(data.jokes[i].joke);
        node.appendChild(textnode);  
@@ -38,7 +37,6 @@ function alls() {
     $.getJSON('jokes.json', function(data) {         
        $('#fe').empty();
       for (var i = 0; i < data.animals.length; i++) {
-       console.log(data.animals[i].joke);
        var node = document.createElement("LI");
        var textnode = document.createTextNode(data.animals[i].joke);
        node.appendChild(textnode);  
@@ -51,7 +49,6 @@ function alls() {
     $.getJSON('jokes.json', function(data) {         
        $('#fe').empty();
       for (var i = 0; i < data.food.length; i++) {
-       console.log(data.food[i].joke);
        var node = document.createElement("LI");
        var textnode = document.createTextNode(data.food[i].joke);
        node.appendChild(textnode);  
@@ -64,7 +61,6 @@ function alls() {
     $.getJSON('jokes.json', function(data) {         
        $('#fe').empty();
       for (var i = 0; i < data.other.length; i++) {
-       console.log(data.other[i].joke);
        var node = document.createElement("LI");
        var textnode = document.createTextNode(data.other[i].joke);
        node.appendChild(textnode);  
@@ -72,3 +68,10 @@ function alls() {
       } 
    });
     }
+
+    /*random joke-
+    $.getJSON('jokes.json', function(data) {
+       joe = data.jokes
+      console.log(joe[Math.floor(Math.random() * joe.length)])
+   });
+    */
