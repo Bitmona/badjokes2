@@ -1023,140 +1023,172 @@
         {
             "id": 255,
             "joke": " Want to hear a joke about paper? Never mind, it's tearable."
+        },
+        {
+            "id": 256,
+            "joke": "What is a dentist's favorite city? Floss Vegas"
+        },
+        {
+            "id": 257,
+            "joke": "We’d tell a chemistry joke, but we know it wouldn’t get a reaction."
+        },
+        {
+            "id": 258,
+            "joke": " Try not to discuss infinity with a math teacher, they can go on about it forever! "
+        },
+        {
+            "id": 259,
+            "joke": " Broken pencils are pointless. "
+        },
+        {
+            "id": 260,
+            "joke": "Why couldn't the toilet paper cross the road? Cause it got stuck in a crack."
+        },
+        {
+            "id": 261,
+            "joke": "What do get if you cross a lemon and a T-Rex... A dinosour!"
+        },
+        {
+            "id": 262,
+            "joke": "What did the stockbroker say to the man investing all his money in funeral homes? Don’t put all your eggs in one casket."
         }
     ],
     "animals": [
         {
             "id": 0,
-            "joke": "What did the fish say when he swam into a wall? Dam. "
+            "joke": "Why aren’t koalas actual bears? They don’t meet the koalafications. "
         },
         {
             "id": 1,
-            "joke": " I like elephants. Everything else is irrelephant. "
-        },
-        {
-            "id": 2,
-            "joke": " What do you call an alligator in a vest? An in-vest-igator. "
-        },
-        {
-            "id": 3,
-            "joke": " Why can't dinosaurs talk? Because they are dead. "
-        },
-        {
-            "id": 4,
-            "joke": " What do you call a fly with no wings? A walk. "
-        },
-        {
-            "id": 5,
-            "joke": " What did the buffalo say when his son left? Bison! "
-        },
-        {
-            "id": 6,
-            "joke": " Three fish are in a tank. One asks the others, “How do you drive this thing?” "
-        },
-        {
-            "id": 7,
-            "joke": " Why aren’t koalas actual bears? They don’t meet the koalafications. "
-        },
-        {
-            "id": 8,
             "joke": " Where do you find a birthday present for a cat? In a cat-alogue! "
         },
         {
-            "id": 9,
+            "id": 2,
             "joke": " Why are frogs are so happy? They eat whatever bugs them. "
         },
         {
-            "id": 10,
+            "id": 3,
             "joke": " How do you befriend a squirrel? Just act like a nut. "
         },
         {
-            "id": 11,
+            "id": 4,
             "joke": " Why did the jaguar eat the tightrope walker? It was craving a well-balanced meal. "
         },
         {
-            "id": 12,
+            "id": 5,
             "joke": " What did the big bucket say to the smaller one? Lookin’ a little pail there. "
         },
         {
-            "id": 13,
+            "id": 6,
             "joke": " Why do chicken coups always have two doors? With four, they’d be chicken sedans. "
         },
         {
-            "id": 14,
+            "id": 7,
             "joke": " Why did the lifeguard kick the elephants out of the pool? They kept dropping their trunks. "
         },
         {
-            "id": 15,
+            "id": 8,
             "joke": " What do you call a pony with a cough? A little hoarse. "
         },
         {
-            "id": 16,
+            "id": 9,
             "joke": " What do cows most like to read? Cattle-logs. "
         },
         {
-            "id": 17,
+            "id": 10,
             "joke": " How does a duck buy lipstick? She just puts it on her bill. "
         },
         {
-            "id": 18,
+            "id": 11,
             "joke": " What did one shark say to the other as he ate a clownfish? Well this tastes a little funny. "
         },
         {
-            "id": 19,
+            "id": 12,
             "joke": " What do you call a bee that’s having a bad hair day? A frisbee. "
         },
         {
-            "id": 20,
+            "id": 13,
             "joke": " Which plant rules the garden? The dande-lion. "
         },
         {
-            "id": 21,
+            "id": 14,
             "joke": " What’s a firefly’s favorite game? Hide-and-glow-seek. "
         },
         {
-            "id": 22,
+            "id": 15,
             "joke": " What do ants get when they do all their chores? An allow-ants. "
         },
         {
-            "id": 23,
+            "id": 16,
             "joke": " What does a farmer say after feeding a stick of dynamite to his steer? Abominable! (A-bomb-in-a-bull) "
         },
         {
-            "id": 24,
+            "id": 17,
             "joke": " I just watched a documentary about beavers. It was the best dam show I ever saw! "
         },
         {
-            "id": 25,
+            "id": 18,
             "joke": " Ever tried to eat a clock? It’s very time-consuming. "
         },
         {
-            "id": 26,
+            "id": 19,
             "joke": " Why did the invisible man turn down the job offer? He couldn’t see himself doing it. "
         },
         {
-            "id": 27,
+            "id": 20,
             "joke": " Two antennas met on a roof, fell in love and got married. The ceremony wasn’t much, but the reception was excellent! "
         },
         {
-            "id": 28,
+            "id": 21,
             "joke": " What do you call cheese that isn’t yours? Nacho Cheese. "
         },
         {
-            "id": 29,
+            "id": 22,
             "joke": " What do you get from a pampered cow? Spoiled milk! "
         },
         {
-            "id": 30,
+            "id": 23,
             "joke": " Why do cow-milking stools only have three legs? ‘Cause the cow’s got the udder! "
         },
         {
-            "id": 31,
+            "id": 24,
             "joke": " Last year I wrote a book on penguins. In hindsight I should have written it on paper. "
         },
         {
+            "id": 25,
+            "joke": " What do pigs use on their skin? Oink-Ment! "
+        },
+        {
+            "id": 26,
+            "joke": " What did the fish say when he swam into a wall? Dam. "
+        },
+        {
+            "id": 27,
+            "joke": " I like elephants. Everything else is irrelephant. "
+        },
+        {
+            "id": 28,
+            "joke": " What do you call an alligator in a vest? An in-vest-igator. "
+        },
+        {
+            "id": 29,
+            "joke": " Why can't dinosaurs talk? Because they are dead. "
+        },
+        {
+            "id": 30,
+            "joke": " What do you call a fly with no wings? A walk. "
+        },
+        {
+            "id": 31,
+            "joke": " What did the buffalo say when his son left? Bison! "
+        },
+        {
             "id": 32,
-            "joke": " What do pigs use on their skin? Oink-Ment!"
+            "joke": " Three fish are in a tank. One asks the others, “How do you drive this thing?”"
+        },
+        {
+            "id": 33,
+            "joke": "What do get if you cross a lemon and a T-Rex... A dinosour!"
         }
     ],
     "food": [
@@ -1565,6 +1597,30 @@
         {
             "id": 54,
             "joke": " What do you call a fat candy store merchant? A kleptomaniac."
+        },
+        {
+            "id": 55,
+            "joke": "What is a dentist's favorite city? Floss Vegas"
+        },
+        {
+            "id": 56,
+            "joke": "We’d tell a chemistry joke, but we know it wouldn’t get a reaction."
+        },
+        {
+            "id": 57,
+            "joke": " Try not to discuss infinity with a math teacher, they can go on about it forever! "
+        },
+        {
+            "id": 58,
+            "joke": " Broken pencils are pointless. "
+        },
+        {
+            "id": 59,
+            "joke": "Why couldn't the toilet paper cross the road? Cause it got stuck in a crack."
+        },
+        {
+            "id": 60,
+            "joke": "What did the stockbroker say to the man investing all his money in funeral homes? Don’t put all your eggs in one casket."
         }
     ]
 }

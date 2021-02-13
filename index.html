@@ -11,7 +11,7 @@
 <meta name="robots" content= "index, follow">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <!-- import the webpage's stylesheet -->
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" type="text/css" href="styles.css">
     <!--Import webpage's js file-->
  <script src="script.js"></script>
    
@@ -36,29 +36,34 @@ ______           _   ___       _
 | |_/ / (_| | (_| /\__/ / (_) |   <  __/\__ \
 \____/ \__,_|\__,_\____/ \___/|_|\_\___||___/
 On Github
-      -->   
-  <body onload="alls(), instan()">
+      -->  
+      <div id="container"> 
+  <body onload="alls(), instan(), day()" >
+   <div id="bar">
     <ul class="te">
-      <li class="ch"><a class="active" onclick="alls()" style="float:left">Home</a></li>
-      <li class="ch"><a onclick="anis1()" style="float:left">Animals</a></li>
-      <li class="ch"><a onclick="food1()" style="float:left">Food</a></li>
-      <li class="ch"><a onclick="oth1()" style="float:left">Other</a></li>
+      <li class="ch"  onclick="alls()"><a id="home" class="as">Home</a></li>
+      <li class="ch" onclick="anis1()"><a  id="ani2" class="as">Animals</a></li>
+      <li class="ch" onclick="food1()"><a  id="foo2" class="as">Food</a></li>
+      <li class="ch" onclick="oth1()"><a  id="oth2" class="as">Other</a></li>
       
     </ul>
 
 <form action="" name="go" id="go"> 
 <input name="search" id="searchbar" onkeyup="google()" type="text" placeholder="Search here..." maxlength="25">
 </form>
-
+</div>
 
 <div>
 <center><h1 class="title">
        Bad jokes below!
       </h1></center>
-    
+     
+      <center><p id="jd" style="color:white;"></p></center> 
+  
     <center><img class="img1" src="arrow_icon.png" alt="arrow"></center>
-    
-<ul id="fe" class="fe">
+ 
+
+    <ul id="fe" class="fe">
 
 </ul>
 
@@ -74,11 +79,11 @@ On Github
         type: 1,
         width: 700,
         height: 500,
-        isCardForm: false
+        isCardForm: false,
       });
     </script>
-  
-  
+</div>
+<!-- <footer>Copyright © 2020 by Alex Brown.</footer> -->
 
   </body>
 </html>
